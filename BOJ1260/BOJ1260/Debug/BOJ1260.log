@@ -1,0 +1,4 @@
+﻿  BOJ1260.cpp
+c:\users\user\desktop\algorithmstudy\boj1260\boj1260\boj1260.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\boj1260\boj1260\boj1260.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ1260.vcxproj -> C:\Users\user\Desktop\AlgorithmStudy\BOJ1260\Debug\BOJ1260.exe

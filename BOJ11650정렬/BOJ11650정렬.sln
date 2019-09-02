@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ11650정렬", "BOJ11650정렬\BOJ11650정렬.vcxproj", "{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Debug|x64.ActiveCfg = Debug|x64
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Debug|x64.Build.0 = Debug|x64
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Debug|x86.Build.0 = Debug|Win32
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Release|x64.ActiveCfg = Release|x64
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Release|x64.Build.0 = Release|x64
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Release|x86.ActiveCfg = Release|Win32
+		{BD306FEB-8BA5-451D-8DC5-A13A7BECBCCE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AEB8B8E-FF00-4C4D-BD59-AB7A49336B59}
+	EndGlobalSection
+EndGlobal

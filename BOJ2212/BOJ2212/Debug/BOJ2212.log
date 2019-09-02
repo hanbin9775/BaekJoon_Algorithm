@@ -1,0 +1,3 @@
+﻿  BOJ1149.cpp
+c:\users\user\desktop\temp\algorithmstudy\boj2212\boj2212\boj1149.cpp(28): warning C4715: 'rgb': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BOJ2212.vcxproj -> C:\Users\user\Desktop\Temp\AlgorithmStudy\BOJ2212\Debug\BOJ1149.exe

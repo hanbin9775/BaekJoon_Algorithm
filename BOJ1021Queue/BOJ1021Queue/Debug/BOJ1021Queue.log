@@ -1,0 +1,5 @@
+﻿  BOJ1021Queue.cpp
+c:\users\user\desktop\algorithmstudy\boj1021queue\boj1021queue\boj1021queue.cpp(43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\boj1021queue\boj1021queue\boj1021queue.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\boj1021queue\boj1021queue\boj1021queue.cpp(62): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ1021Queue.vcxproj -> C:\Users\user\Desktop\AlgorithmStudy\BOJ1021Queue\Debug\BOJ1021Queue.exe

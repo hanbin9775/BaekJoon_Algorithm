@@ -1,0 +1,5 @@
+﻿  BOJ10757.cpp
+c:\users\user\desktop\algorithmstudy\boj10757\boj10757\boj10757.cpp(26): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\boj10757\boj10757\boj10757.cpp(55): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\boj10757\boj10757\boj10757.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ10757.vcxproj -> C:\Users\user\Desktop\AlgorithmStudy\BOJ10757\Debug\BOJ10757.exe

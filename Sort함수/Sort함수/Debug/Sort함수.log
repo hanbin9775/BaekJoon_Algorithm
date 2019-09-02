@@ -1,0 +1,4 @@
+﻿  Sort함수.cpp
+c:\users\user\desktop\algorithmstudy\sort함수\sort함수\sort함수.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\algorithmstudy\sort함수\sort함수\sort함수.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Sort함수.vcxproj -> C:\Users\user\Desktop\AlgorithmStudy\Sort함수\Debug\Sort함수.exe

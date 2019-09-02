@@ -1,0 +1,6 @@
+﻿  BOJ1351.cpp
+c:\users\user\desktop\algorithmstudy\boj1351\boj1351\boj1351.cpp(19): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\algorithmstudy\boj1351\boj1351\boj1351.cpp(21): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\algorithmstudy\boj1351\boj1351\boj1351.cpp(21): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\algorithmstudy\boj1351\boj1351\boj1351.cpp(28): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ1351.vcxproj -> C:\Users\user\Desktop\AlgorithmStudy\BOJ1351\Debug\BOJ1351.exe
