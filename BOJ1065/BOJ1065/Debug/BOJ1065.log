@@ -1,0 +1,7 @@
+﻿  BOJ1065.cpp
+c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj1065\boj1065\boj1065.cpp(30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj1065\boj1065\boj1065.cpp(31): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj1065\boj1065\boj1065.cpp(32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj1065\boj1065\boj1065.cpp(33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj1065\boj1065\boj1065.cpp(34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ1065.vcxproj -> C:\Users\user\Desktop\Temp\백준\BaekJoon_Algorithm\BOJ1065\Debug\BOJ1065.exe
