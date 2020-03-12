@@ -1,2 +1,8 @@
 ﻿  BOJ8980.cpp
-  BOJ8980.vcxproj -> C:\Users\user\Desktop\Temp\AlgorithmStudy\BOJ8980\Debug\BOJ8980.exe
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\utility(234): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\utility(236): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept'에 대한 참조를 확인하십시오.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\utility(234): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept'에 대한 참조를 확인하십시오.
+  c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj8980\boj8980\boj8980.cpp(29): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::pair<int,int>,std::pair<int,float>>::pair<std::pair<float,float>,std::pair<float,float>,0>(std::pair<std::pair<float,float>,std::pair<float,float>> &&) noexcept'에 대한 참조를 확인하십시오.
+  c:\users\user\desktop\temp\백준\baekjoon_algorithm\boj8980\boj8980\boj8980.cpp(29): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::pair<int,int>,std::pair<int,float>>::pair<std::pair<float,float>,std::pair<float,float>,0>(std::pair<std::pair<float,float>,std::pair<float,float>> &&) noexcept'에 대한 참조를 확인하십시오.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\utility(235): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BOJ8980.vcxproj -> C:\Users\user\Desktop\Temp\백준\BaekJoon_Algorithm\BOJ8980\Debug\BOJ8980.exe
