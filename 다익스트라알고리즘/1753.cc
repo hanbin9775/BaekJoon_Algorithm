@@ -28,11 +28,9 @@ int main(){
     }
     
     //dijkstra
-    
     vector<int> dist;
     dist.resize(v+1, INF);
-    vector<bool> visited;
-    visited.resize(v+1, false);
+    dist[start] = 0;
     
     for(int i=0; i<graph[start].size(); i++){
         dist[graph[start][i].first] = min(dist[graph[start][i].first], graph[start][i].second);
@@ -40,11 +38,30 @@ int main(){
     
     priority_queue<pair<int,int>> pq;
     pq.push(make_pair(0,start));
-    visited[start] = true;
     
     while(!pq.empty()){
-        int curNode = pq.
+        int curNode = pq.top().second;
+        int distance = -pq.top().first;
+        pq.pop();
         
+        if(dist[curNode] < distance) continue;
+        
+        for(int i=0; i<graph[curNode].size(); i++){
+            int nextNode = graph[curNode][i].first;
+            int nextDist = graph[curNode][i].second;
+            
+            if(distance + nextDist <= dist[nextNode]){
+                dist[nextNode] = distance + nextDist;
+                pq.push(make_pair(-dist[nextNode],nextNode));
+            }
+        }
+    }
+    
+    for(int i=1; i<=v; i++){
+        if(dist[i]==INF){
+            cout << "INF" << "\n";
+        }
+        else cout << dist[i] << "\n";
     }
     
     return 0;
